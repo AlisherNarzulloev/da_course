@@ -1,0 +1,23 @@
+251821e add bash rmdir command
+7acb7e4 add bash rm command
+0a2e276 add bash cat command
+d851aa9 add bash mv command
+0a3a678 add bash cp command
+763350d add bash mkdir command
+c64b675 add bash touch command
+74bc880 add bash ls command
+fc92385 add bash cd command
+9302fa4 add bash pwd command
+c6a96af add subtitle for bash commands
+174175c add git log command
+8ec1cb1 add git commit -m command
+c42f2df add git add command
+8e551fd add git status command
+7e09b3c add rm -rf .git command
+8deaf24 add git init command
+021c9d1 add git config command for user.email
+429e170 add git config command for user.name
+b7cfc5b add git version command
+2c2d8e2 add subtitle
+458a360 create file git_cheatsheet
+046274c initial commit
